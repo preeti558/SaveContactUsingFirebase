@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324772404820",
+    "project_id": "realtime-81aed",
+    "storage_bucket": "realtime-81aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324772404820:android:2e80d0f24e115dc017d7c1",
+        "android_client_info": {
+          "package_name": "com.preetidev.realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKz6JwVaRSkZXUsYz93lJ383v9gbQw0pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
